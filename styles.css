@@ -16,14 +16,14 @@
 
 @font-face {
   font-family: "Karla";
-  src: url("/fonts/Karla.ttf") format("truetype");
+  src: url("fonts/Karla.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Markazi Text";
-  src: url("/fonts/MarkaziText.ttf") format("truetype");
+  src: url("fonts/MarkaziText.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
